@@ -22,4 +22,4 @@ python scanner.py
 - Tweak the timeout with `sock.settimeout(seconds).`
 
 ## License
-This project is open-source under the MIT [licence](https://mit-license.org/).
+- this is published under the MIT [licenece](https://mit-license.org/)
