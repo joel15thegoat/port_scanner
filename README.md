@@ -1,12 +1,12 @@
 # port_scanner
 A lightweight, multi-threaded port scanner written in Python. It scans ports 1–1024 on local host (127.0.0.1) using a thread pool, identyfying open ports
 
-## 🚀 Features
+## Features
 - Fast concurrent scanning with `concurrent.futures`
 - Adjustable timeout and port range
 - Clean, minimal code perfect for learning
 
-## 🛠 Usage
+## Usage
 **1. Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/port-scanner.git
@@ -22,4 +22,4 @@ python scanner.py
 - Tweak the timeout with `sock.settimeout(seconds).`
 
 ## License
-This project is open-source under the MIT License. [licence](https://mit-license.org/)
+This project is open-source under the MIT [licence](https://mit-license.org/).
